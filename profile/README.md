@@ -1,4 +1,6 @@
 # WE'RE : We Eat, Reduce wastE
+<img width="1268" alt="image" src="https://github.com/Eat-solution-challenge/.github/assets/67634926/1575fdae-451c-4c9f-835e-c148fec4ddf6">
+
 
 ## 📱 Project Overview
 WE'RE is a service that aims to reduce food waste by guiding users on the right amount of food. By providing proper meal guidance, keeping a meal diary, checking past meal records, and checking food waste emissions, users can reflect on their eating habits and make effective plans to reduce food waste. WE'RE aims to prevent excessive food waste and solve the resulting environmental problems, economic waste, and social problems.
@@ -9,12 +11,7 @@ WE'RE is a service that aims to reduce food waste by guiding users on the right 
 
 
 ## 🖼 Project Architecture
-<img src="https://img.shields.io/badge/Android-34A853?style=for-the-badge&logo=android&logoColor=white">
-<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white">
-<img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white">
-<img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
-<img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=black"> 
-<img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+<img src="https://img.shields.io/badge/Android-34A853?style=for-the-badge&logo=android&logoColor=white"> <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"> <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"> <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=black"> <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
 
 ## 🌟 How to install
 
