@@ -12,6 +12,8 @@ WE'RE is a service that aims to reduce food waste by guiding users on the right 
 
 
 ## 🛠️ Project Architecture
+![image](https://github.com/Eat-solution-challenge/.github/assets/67634926/eee8a340-c61c-4c76-bb2f-e68c0a04d2be)
+
 <img src="https://img.shields.io/badge/Android-34A853?style=for-the-badge&logo=android&logoColor=white"> <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"> <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"> <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=black"> <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
 
 ## 🌟 How to install
