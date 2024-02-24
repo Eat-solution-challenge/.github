@@ -3,10 +3,10 @@
 
 GDSC Solution Challenge 2024 - Team EAT 
 
-## 📱 Project Overview
+## 💡 Project Overview
 WE'RE is a service that aims to reduce food waste by guiding users on the right amount of food. By providing proper meal guidance, keeping a meal diary, checking past meal records, and checking food waste emissions, users can reflect on their eating habits and make effective plans to reduce food waste. WE'RE aims to prevent excessive food waste and solve the resulting environmental problems, economic waste, and social problems.
 
-## 🖥️ Demo video
+## 🖥 Demo video
 <br>
 <br>
 
@@ -16,7 +16,7 @@ WE'RE is a service that aims to reduce food waste by guiding users on the right 
 
 <img src="https://img.shields.io/badge/Android-34A853?style=for-the-badge&logo=android&logoColor=white"> <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"> <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"> <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=black"> <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
 
-## 🌟 How to install
+## 📱 How to install
 
 - Android
 - Server: https://github.com/Eat-solution-challenge/eat_server/tree/main
