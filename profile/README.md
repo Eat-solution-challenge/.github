@@ -1,6 +1,7 @@
 # WE'RE : We Eat, Reduce wastE
 <img width="1268" alt="image" src="https://github.com/Eat-solution-challenge/.github/assets/67634926/1575fdae-451c-4c9f-835e-c148fec4ddf6">
 
+GDSC Solution Challenge 2024 - Team EAT 
 
 ## 📱 Project Overview
 WE'RE is a service that aims to reduce food waste by guiding users on the right amount of food. By providing proper meal guidance, keeping a meal diary, checking past meal records, and checking food waste emissions, users can reflect on their eating habits and make effective plans to reduce food waste. WE'RE aims to prevent excessive food waste and solve the resulting environmental problems, economic waste, and social problems.
