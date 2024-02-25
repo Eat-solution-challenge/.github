@@ -7,7 +7,7 @@ GDSC Solution Challenge 2024 - Team EAT
 WE'RE is a service that aims to reduce food waste by guiding users on the right amount of food. By providing proper meal guidance, keeping a meal diary, checking past meal records, and checking food waste emissions, users can reflect on their eating habits and make effective plans to reduce food waste. WE'RE aims to prevent excessive food waste and solve the resulting environmental problems, economic waste, and social problems.
 
 ## 🖥 Demo video
-
+https://www.youtube.com/watch?v=AXb44x3qZNc
 <br>
 
 
