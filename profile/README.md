@@ -18,7 +18,7 @@ WE'RE is a service that aims to reduce food waste by guiding users on the right 
 
 ## 📱 How to install
 
-- Android
+- Android: https://github.com/Eat-solution-challenge/eat_app/tree/main
 - Server: https://github.com/Eat-solution-challenge/eat_server/tree/main
 
 
